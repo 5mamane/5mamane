@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5mamane&label=Profile%20views&color=0e75b6&style=flat" alt="5mamane" /> </p>
 
-- 🔭 I’m currently working on **my side project**
+- 🔭 I’m currently working on **my side projects**
 
 - 🌱 I’m currently learning **Jetpack Compose / AWS**
 
