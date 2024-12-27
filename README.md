@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5mamane&label=Profile%20views&color=0e75b6&style=flat" alt="5mamane" /> </p>
 
 
-- 🌱 Learning **Jetpack Compose / AWS**
+- 🌱 Learning ** DP / AWS**
 
 - 🤝 Willing to help with **Spring / Angular / PHP**
 
