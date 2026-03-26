@@ -23,8 +23,8 @@
 ---
 
 ### Ask Me About
-- Java **Spring Boot**
-- **Angular**
+- Java, Spring Boot
+- Angular
 - REST APIs & architecture
 - Payment integrations  
 
