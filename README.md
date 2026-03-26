@@ -1,16 +1,53 @@
 <h1 align="center">Hi 👋, I'm Mamane</h1>
-<h3 align="center">a Software Engineer</h3>
+<h3 align="center">Software Engineer | Backend & Cloud Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=5mamane&label=Profile%20views&color=0e75b6&style=flat" alt="5mamane" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=5mamane&label=Profile%20views&color=0e75b6&style=flat" alt="5mamane" />
+</p>
 
+---
 
-- 🌱 Learning **Cloud/Devops**
+### 🚀 About Me
+- 💻 Software Engineer passionate about building scalable applications  
+- 🌱 Currently learning **Cloud & DevOps (Docker, CI/CD, Kubernetes)**  
+- ⚡ Strong experience in **Spring Boot, Angular & PHP (Laravel)**  
+- 🧠 Always improving system design & performance optimization  
 
-- 🤝 Willing to help with **Spring / Angular / PHP**
+---
 
-- 💬 Ask me about **Spring / Angular**
+### 🤝 Open to Collaborate On
+- Backend systems (**Spring Boot / Laravel**)  
+- Frontend apps (**Angular**)  
+- API design & integrations (payments, microservices)  
 
-- 📫 How to reach me **5mamane**
+---
+
+### 💬 Ask Me About
+- Java **Spring Boot**
+- **Angular**
+- REST APIs & architecture
+- Payment integrations  
+
+---
+
+### 📫 Contact Me
+- GitHub: **5mamane**
+- Linkedin: **mamane-idi**
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,php,laravel,docker,postgres,redis,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=5mamane&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5mamane&layout=compact&theme=tokyonight" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
