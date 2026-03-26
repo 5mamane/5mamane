@@ -18,7 +18,7 @@
 ### Open to Collaborate On
 - Backend systems (**Spring Boot / Laravel**)  
 - Frontend apps (**Angular**)  
-- API design & integrations (payments, microservices)  
+- API design & integrations (payments, microservices, design patterns)
 
 ---
 
