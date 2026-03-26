@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 - 💻 Software Engineer passionate about building scalable applications  
 - 🌱 Currently learning **Cloud & DevOps (Docker, CI/CD, Kubernetes)**  
 - ⚡ Strong experience in **Spring Boot, Angular & PHP (Laravel)**  
@@ -15,14 +15,14 @@
 
 ---
 
-### 🤝 Open to Collaborate On
+### Open to Collaborate On
 - Backend systems (**Spring Boot / Laravel**)  
 - Frontend apps (**Angular**)  
 - API design & integrations (payments, microservices)  
 
 ---
 
-### 💬 Ask Me About
+### Ask Me About
 - Java **Spring Boot**
 - **Angular**
 - REST APIs & architecture
@@ -30,20 +30,20 @@
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 - GitHub: **5mamane**
 - Linkedin: **mamane-idi**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,php,laravel,docker,postgres,redis,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,php,laravel,flutter,docker,postgres,redis,git" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=5mamane&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5mamane&layout=compact&theme=tokyonight" />
