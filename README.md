@@ -38,7 +38,7 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,php,laravel,flutter,docker,postgres,redis,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,php,laravel,flutter,docker,kubernetes,jenkins,postgres,redis,git" />
 </p>
 
 ---
