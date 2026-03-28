@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mamane</h1>
+<h1 align="center">Hi, I'm Mamane</h1>
 <h3 align="center">Software Engineer | Backend & Cloud Enthusiast</h3>
 
 <p align="center">
@@ -8,10 +8,10 @@
 ---
 
 ### About Me
-- 💻 Software Engineer passionate about building scalable applications  
-- 🌱 Currently learning **Cloud & DevOps (Docker, CI/CD, Kubernetes)**  
-- ⚡ Strong experience in **Spring Boot, Angular & PHP (Laravel)**  
-- 🧠 Always improving system design & performance optimization  
+- Software Engineer passionate about building scalable applications  
+- Currently learning **Cloud & DevOps (Docker, CI/CD, Kubernetes)**  
+- Strong experience in **Spring Boot, Angular & PHP (Laravel)**  
+- Always improving system design & performance optimization  
 
 ---
 
