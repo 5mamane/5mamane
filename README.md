@@ -26,14 +26,8 @@
 - Java, Spring Boot
 - Angular
 - REST APIs & architecture
-- Payment integrations  
-
----
-
-### Contact Me
-- GitHub: **5mamane**
-- Linkedin: **mamane-idi**
-
+- Payment integrations
+  
 ---
 
 ### Tech Stack
