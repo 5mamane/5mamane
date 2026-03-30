@@ -5,18 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=5mamane&label=Profile%20views&color=0e75b6&style=flat" alt="5mamane" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5mamane&theme=github-dark" alt="Activity Graph" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=5mamane&theme=dark" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=5mamane&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=5mamane&layout=compact&theme=radical" alt="Top Langs" />
-</p>
 ---
 
 ### About Me
